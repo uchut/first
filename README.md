@@ -1,5 +1,2 @@
-#include <iostream>
-
-first
-cout << endl;
-my first project
+#first
+# frist project
